@@ -1,0 +1,31 @@
+html {
+  font-family: Verdana;
+  background-color: #bea586;
+  background-image: url("../images/sloth-bg.svg");
+  background-size: 48px auto;
+  background-repeat: repeat;
+}
+
+main {
+  background-color: #fff;
+}
+
+h1 {
+  background-image: linear-gradient(to top, rgba(28, 14, 0, 0), rgba(28, 14, 0, .8));
+  font-family: Georgia;
+  color: #fff;
+  text-shadow: 2px 2px 0 #000;
+}
+
+.border {
+  border-top: 2px solid #766e67;
+  border-bottom: 2px solid #766e67;
+}
+
+a {
+  color: #000;
+}
+
+figcaption {
+  font-family: Georgia;
+}
